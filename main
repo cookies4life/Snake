@@ -43,6 +43,7 @@ def draw(surface):
     draw_snake(surface)
 
 
+
 # --- Minimal loop just to keep the window open and show the board ---
 running = True
 while running:
